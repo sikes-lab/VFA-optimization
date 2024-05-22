@@ -1,0 +1,2 @@
+selectWindow("Results");
+run("Close");

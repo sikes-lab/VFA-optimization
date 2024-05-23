@@ -1,2 +1,0 @@
-selectWindow("Results");
-run("Close");
